@@ -22,8 +22,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/kazem199700/BDReborn1.git
+cd BDReborn1
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
